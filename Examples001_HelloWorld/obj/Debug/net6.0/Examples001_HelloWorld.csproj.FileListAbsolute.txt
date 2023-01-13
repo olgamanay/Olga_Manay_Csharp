@@ -1,0 +1,15 @@
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.exe
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.deps.json
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.runtimeconfig.json
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.dll
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.pdb
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.AssemblyReference.cache
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfoInputs.cache
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfo.cs
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.CoreCompileInputs.cache
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.dll
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\refint\Examples001_HelloWorld.dll
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.pdb
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.genruntimeconfig.cache
+D:\RAZUM\Geek Brains\Olga_Manay_C#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\ref\Examples001_HelloWorld.dll
