@@ -1,5 +1,4 @@
-﻿Console.Clear();
-int[] Array = new int[10];
+﻿int[] Array = new int[10];
 void FillArray(int[] collection)
 {
     int length = collection.Length;
@@ -17,7 +16,7 @@ void PrintArray(int[]col)
     int position = -1;
     while(position < count);
     {
-        Console.Write(col[position] );
+        Console.WriteLine(col[position]);
         position++;
     }
 }
