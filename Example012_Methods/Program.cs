@@ -25,4 +25,13 @@ void Method2_1(string msg, int count)
 }
 //Method2_1("Text", 4);
 //Method2_1(msg: "Text", count: 4);
-Method2_1(count: 4, msg: "New text");
+//Method2_1(count: 4, msg: "New text");
+
+// Вид 3
+
+int Method3()
+{
+    return DateTime.Now.Year;
+}
+int year = Method3();
+Console.WriteLine(year);
