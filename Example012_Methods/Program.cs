@@ -52,14 +52,66 @@
 //string res = Method4(10, "asdf");
 //Console.WriteLine(res);
 
-string Method4(int count, string text)
+//string Method4(int count, string text)
+//{
+  //  string result = String.Empty;
+  //  for(int i = 0; i < count; i++)
+  //  {
+  //      result = result + text;
+  //  }
+  //  return result;
+// }
+//string res = Method4(10, "z");
+//Console.WriteLine(res);
+
+// ТАБЛИЦА УМНОЖЕНИЯ
+
+//    for(int i = 2; i <= 10; i++)
+//    {
+//        for(int j = 0; j <= 10; j++)
+//        {
+//            Console.WriteLine($"{i} x {j} = {i * j}");
+ //       }
+//        Console.WriteLine();
+//    }
+
+
+//===========РАБОТА С ТЕКСТОМ
+// Дан текстю В тексте нужно все пробелы заменить черточками, 
+// маленькие буквы "к" заменить большими "К", 
+// а болльшие "С" заменить маленькими "с".
+
+string text = "- Я думаю, - сказал князь, улыбаясь, - что, "
+            + "ежели бы вас послали вместо нашего милого Винценгероде,"
+            + "вы бы взяли приступом согласие прусского короля. "
+            + "Вы так красноречивы. Вы дадите мне чаю?";
+
+// string s = "qwerty"
+//             012
+// s[3] // r (считаем с нуля)
+
+string Replace(string text, char oldValue, char newValue)
 {
     string result = String.Empty;
-    for(int i = 0; i < count; i++)
+
+    int lenghth = text.Length;
+    for(int i = 0; i < lenghth; i++)
     {
-        result = result + text;
+        if(text[i] == oldValue) result + $"{newValue}";
+        else result = result + $"{text[i]}";
     }
+
     return result;
 }
-string res = Method4(10, "z");
-Console.WriteLine(res);
+string newText = Replace(text, " ", "|");
+
+Console.WriteLine(newText);
+Console.WriteLine();
+
+newText = Replace(text, "к", "К");
+Console.WriteLine(newText);
+Console.WriteLine();
+
+newText = Replace(text, "С", "с");
+Console.WriteLine(newText);
+Console.WriteLine();
