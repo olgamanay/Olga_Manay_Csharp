@@ -103,15 +103,15 @@ string Replace(string text, char oldValue, char newValue)
 
     return result;
 }
-string newText = Replace(text, " ", "|");
+string newText = Replace(text, ' ', '|');
 
 Console.WriteLine(newText);
 Console.WriteLine();
 
-newText = Replace(text, "к", "К");
+newText = Replace(text, 'к', 'К');
 Console.WriteLine(newText);
 Console.WriteLine();
 
-newText = Replace(text, "С", "с");
+newText = Replace(text, 'С', 'с');
 Console.WriteLine(newText);
 Console.WriteLine();
